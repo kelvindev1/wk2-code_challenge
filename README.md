@@ -4,38 +4,40 @@
 
 31/3/2024
 
-## by:
+## Author:
 
-kelvin mutugi
+kelvin mutugi [(https://github.com/kelvindev1/wk2-code_challenge.git)]
 
-## description
+# Description
 
 it's a webpage that shows different codes and how they work.
 
-## installation
+## Installation
 
 You use git clone to be able to download the documents in the GitHub
 
-## installation requirements
+## Installation requirements
 
-Git
+You need to have a github account for you to git clone.
 
 ## installation instruction
 
-git clone https://github.com/kelvindev1/wk2-code_challenge.git
+Use this link to git clone [(https://github.com/kelvindev1/wk2-code_challenge.git)]
 
 ## live link
 
+[(https://github.com/kelvindev1/wk2-code_challenge.git)]
+
 ## Technologies used
 
-HTML
-CSS
-Github
-Javascript
+1. HTML
+1. CSS
+1. Github
+1. Javascript
 
 ## support and contact details
 
-github.com/kelvindev1
+You can reach ou via:[(https://github.com/kelvindev1/wk2-code_challenge.git)]
 
 ## licence
 
